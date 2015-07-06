@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsymExample">
+</Property><Property Name="Solution File" Value="C:\Work\WCF\WSSecurityAsymExample\AsymExample.sln">
+</Property><Property Name="Date" Value="Friday, October 18, 2013">
+</Property><Property Name="Time" Value="15:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Service" Source="Service\Service.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Service" Source="Service\Service.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MySecurityBE" Source="MySecurityBE\MySecurityBE.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MySecurityBE" Source="MySecurityBE\MySecurityBE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AsymExample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AsymExample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Service" Source="Service\Service.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MySecurityBE" Source="MySecurityBE\MySecurityBE.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

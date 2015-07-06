@@ -1,0 +1,14 @@
+D:\AIDFY2008Q2\Tests\AsymExample\bin\MySecurityBE.dll
+D:\AIDFY2008Q2\Tests\AsymExample\bin\MySecurityBE.pdb
+D:\AIDFY2008Q2\Tests\AsymExample\MySecurityBE\obj\Debug\ResolveAssemblyReference.cache
+D:\AIDFY2008Q2\Tests\AsymExample\MySecurityBE\obj\Debug\MySecurityBE.dll
+D:\AIDFY2008Q2\Tests\AsymExample\MySecurityBE\obj\Debug\MySecurityBE.pdb
+C:\Work\WCF\WSSecurityAsymExample\bin\MySecurityBE.dll
+C:\Work\WCF\WSSecurityAsymExample\bin\MySecurityBE.pdb
+C:\Work\WCF\WSSecurityAsymExample\MySecurityBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\WCF\WSSecurityAsymExample\MySecurityBE\obj\Debug\MySecurityBE.dll
+C:\Work\WCF\WSSecurityAsymExample\MySecurityBE\obj\Debug\MySecurityBE.pdb
+C:\WSSecurityAsymExample\bin\MySecurityBE.dll
+C:\WSSecurityAsymExample\bin\MySecurityBE.pdb
+C:\WSSecurityAsymExample\MySecurityBE\obj\Debug\MySecurityBE.dll
+C:\WSSecurityAsymExample\MySecurityBE\obj\Debug\MySecurityBE.pdb
